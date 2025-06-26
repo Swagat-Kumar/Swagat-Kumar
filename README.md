@@ -1,11 +1,11 @@
 ### Hey there, I'm [Swagat Kumar][website] 👋
 
-## a full-stack web developer and devops engineer from NIT Rourkela. I LOVE❤️
+## a data engineer and full stack developer from NIT Rourkela. I LOVE❤️
 
--   🧬 developing highly structured projects with MERN/PERN stack
--   ⚛️ writing clean and readable code with functional programming
--   🖥️ being a team player and delivering up to the requirements
--   🤓 learning new technologies and concepts quickly!
+-   ⚡ designing real-time & batch ETL pipelines using Spark, Kafka, HBase
+-   🧠 building smart developer automation tools with GPT/AutoGen
+-   🌐 full-stack web development with MERN/PERN stacks
+-   📈 building observability dashboards with Prometheus and Grafana
 
 ### Connect with me:
 
