@@ -22,7 +22,7 @@
 [<img align="left" alt="AWS" width="26px" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" />][website]
 [<img align="left" alt="Spark" width="26px" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/spark/spark.png" />][website]
 [<img align="left" alt="Kafka" width="26px" src="https://avatars.githubusercontent.com/u/47359?s=48&v=4" />][website]
-[<img align="left" alt="HBase" width="26px" src="https://raw.githubusercontent.com/apache/hbase/master/src/site/resources/images/hbase_logo_with_orca_large.png" />][website]
+[<img align="middle" alt="HBase" width="26px" src="https://raw.githubusercontent.com/apache/hbase/master/src/site/resources/images/hbase_logo_with_orca_large.png" />][website]
 [<img align="left" alt="Docker" width="26px" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" />][website]
 [<img align="left" alt="Express" width="26px" src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" />][website]
 [<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />][website]
